@@ -27,6 +27,5 @@
 
 
 ---
-<h5 align='center'>[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kr812/MXPlayer-API)</h5>
-
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kr812/MXPlayer-API)
 
